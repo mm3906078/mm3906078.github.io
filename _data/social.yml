@@ -1,6 +1,9 @@
+- title: main site
+  url: https://mrsalehi.info/
+  icon: fas fa-home
 - title: Twitter
-  url: https://twitter.com/ngzhio
+  url: https://twitter.com/mrsalehi6
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/mm3906078
   icon: fab fa-github

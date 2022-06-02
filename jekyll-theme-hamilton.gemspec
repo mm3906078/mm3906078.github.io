@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hamilton"
   spec.version       = "1.3.0"
-  spec.authors       = ["Shangzhi Huang"]
-  spec.email         = ["ngzhio@gmail.com"]
+  spec.authors       = ["MReza Mollasalehi"]
+  spec.email         = ["info@mrsalehi.info"]
 
   spec.summary       = "A minimal and beautiful Jekyll theme best for writing and note-taking."
   spec.homepage      = "https://github.com/ngzhio/jekyll-theme-hamilton"
